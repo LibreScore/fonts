@@ -1,0 +1,7 @@
+{
+  "name": "@librescore/fonts",
+  "version": "0.1.0",
+  "description": "WOFF2 fonts (Source Han Sans) for LibreScore",
+  "author": "LibreScore",
+  "license": "OFL-1.1"
+}
