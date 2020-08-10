@@ -1,6 +1,6 @@
 {
   "name": "@librescore/fonts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "WOFF2 fonts (Source Han Sans) for LibreScore",
   "main": "./index.js",
   "browser": "./webpack.mjs",
