@@ -4,6 +4,16 @@
   "description": "WOFF2 fonts (Source Han Sans) for LibreScore",
   "main": "./index.js",
   "browser": "./webpack.mjs",
+  "files": [
+    "cdn.js",
+    "index.js",
+    "webpack.mjs",
+    "*.woff2",
+    "!src"
+  ],
+  "scripts": {
+    "build": "cd src && ./build.sh"
+  },
   "author": "LibreScore",
   "license": "OFL-1.1"
 }
