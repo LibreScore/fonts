@@ -6,6 +6,7 @@ FLAGS=(
     --layout-features='*'
     --notdef-glyph --notdef-outline --recommended-glyphs
     --desubroutinize
+    --no-hinting
 )
 
 # install tools: https://github.com/fonttools/fonttools
